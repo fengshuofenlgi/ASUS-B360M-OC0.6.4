@@ -4,7 +4,7 @@
 
 - 下载系统和系统写入u盘可以看看上面的wiki。
 
-为配合big sur beta10安装特性已做如下修改：
+# **为配合big sur beta10安装特性已做如下修改：** 
 
 - 1.Misc - Security - SecureBootModel 已设置为 Disabled
 
@@ -15,7 +15,7 @@
 不然会遇到-v代码跑完-进度条跑完后只有灰屏和鼠标(big sur beta10 全新安装时)。
 
 
-如果你是安装 Catalina 可以将：
+# **如果你是安装 Catalina 可以将：** 
 
 - 1.Misc - Security - SecureBootModel 已设置为 Default
 
@@ -24,7 +24,7 @@
 这样就不会遇到挂在efi分区时occ卡死的问题。
 
 
-目前版本为：
+# **目前版本为：** 
 
 2020-10-22 OC 0.6.3 by 独行秀才
 
