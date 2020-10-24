@@ -26,16 +26,21 @@
 
 # **目前版本为：** 
 
+2020-10-24 OC 0.6.3 by 独行秀才
+
+- 更新内容：
+
+- 例行更新
+
 2020-10-22 OC 0.6.3 by 独行秀才
 
-更新内容：
+- 更新内容：
 
 - 修正了老旧Atom cpu检测的问题
 
-
 2020-10-21 OC 0.6.3 by williambj1
 
-更新内容：
+- 更新内容：
 
 - OcCpuLib: Add compatibility for Bonnell Atom CPUs
 
