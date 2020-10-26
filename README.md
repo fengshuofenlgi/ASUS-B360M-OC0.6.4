@@ -28,22 +28,36 @@
 
 # **目前版本为：** 
 
+2020-10-26 OC 0.6.3 by williambj1
+
+- 更新内容：
+- Docs: Update changelog
+
+2020-10-25 OC 0.6.3 by williambj1
+
+- 更新内容：
+- OcAppleKernelLib: Rebuild KC when no kexts are injected
+- OcAppleKernelLib: Fix invalid kremlin section
+- OcFileLib: Actually fix MSVC warnings
+- OcAppleKernelLib: Zero trailing KC expansion
+- OcFileLib: Silence MSVC
+- OcFileLib: Fixed I/O issues on platforms incapable of reading over 1MB
+- Docs: Add errata entry for 11.0 b10
+- Patches: Fix warning with newer git client version
+- OcBootManagementLib: Fixed ScanPolicy NVMe handling on MacPro5,1
+
 2020-10-24 OC 0.6.3 by 独行秀才
 
 - 更新内容：
-
 - 例行更新
 
 2020-10-22 OC 0.6.3 by 独行秀才
 
 - 更新内容：
-
 - 修正了老旧Atom cpu检测的问题
 
 2020-10-21 OC 0.6.3 by williambj1
 
 - 更新内容：
-
 - OcCpuLib: Add compatibility for Bonnell Atom CPUs
-
 - OcCpuLib: First-gen Atom does not support TURBO_RATIO_LIMIT MSR
