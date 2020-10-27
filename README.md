@@ -28,6 +28,13 @@
 
 # **目前版本为：** 
 
+2020-10-27 OC 0.6.3 by williambj1
+
+- 更新内容：
+- Docs: Fixed typo
+- Docs: Rebuild pdf and update changelog
+- VBIOS patching via ForceResolution option (#144)
+
 2020-10-26 OC 0.6.3 by 独行秀才
 
 - 更新内容：
