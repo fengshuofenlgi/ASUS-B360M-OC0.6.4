@@ -28,6 +28,12 @@
 
 # **目前版本为：** 
 
+2020-10-28 OC 0.6.3 by williambj1
+
+- 更新内容：
+- Patches: Fix previous commit
+- Patches: Add PS/2 mouse patch for SioBusDxe
+
 2020-10-28 OC 0.6.3 by 独行秀才
 
 - 更新内容：
