@@ -28,37 +28,43 @@
 
 # **目前版本为：** 
 
-2020-10-28 OC 0.6.3 by williambj1
+ **2020-10-29 OC 0.6.3 by williambj1**
+
+- 更新内容：
+- DataBase: Updated builtin firmware versions
+- DataBase: Update MM71
+
+ **2020-10-28 OC 0.6.3 by williambj1**
 
 - 更新内容：
 - Patches: Fix previous commit
 - Patches: Add PS/2 mouse patch for SioBusDxe
 
-2020-10-28 OC 0.6.3 by 独行秀才
+ **2020-10-28 OC 0.6.3 by 独行秀才**
 
 - 更新内容：
 - 添加ForceResolution选项以启用非默认分辨率
 
-2020-10-27 OC 0.6.3 by williambj1
+ **2020-10-27 OC 0.6.3 by williambj1**
 
 - 更新内容：
 - Docs: Fixed typo
 - Docs: Rebuild pdf and update changelog
 - VBIOS patching via ForceResolution option (#144)
 
-2020-10-26 OC 0.6.3 by 独行秀才
+ **2020-10-26 OC 0.6.3 by 独行秀才**
 
 - 更新内容：
 - 修正了在选择MacPro5,1时的扫描策略 NVMe的问题
 - 修复了平台上的I/O无法读取超过1MB的问题
 - 修复了在Big Sur上plist-only kext注入的问题
 
-2020-10-26 OC 0.6.3 by williambj1
+ **2020-10-26 OC 0.6.3 by williambj1**
 
 - 更新内容：
 - Docs: Update changelog
 
-2020-10-25 OC 0.6.3 by williambj1
+ **2020-10-25 OC 0.6.3 by williambj1**
 
 - 更新内容：
 - OcAppleKernelLib: Rebuild KC when no kexts are injected
@@ -71,17 +77,17 @@
 - Patches: Fix warning with newer git client version
 - OcBootManagementLib: Fixed ScanPolicy NVMe handling on MacPro5,1
 
-2020-10-24 OC 0.6.3 by 独行秀才
+ **2020-10-24 OC 0.6.3 by 独行秀才**
 
 - 更新内容：
 - 例行更新
 
-2020-10-22 OC 0.6.3 by 独行秀才
+ **2020-10-22 OC 0.6.3 by 独行秀才**
 
 - 更新内容：
 - 修正了老旧Atom cpu检测的问题
 
-2020-10-21 OC 0.6.3 by williambj1
+ **2020-10-21 OC 0.6.3 by williambj1**
 
 - 更新内容：
 - OcCpuLib: Add compatibility for Bonnell Atom CPUs
