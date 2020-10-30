@@ -8,6 +8,8 @@
 
 # **为配合big sur beta10安装特性已做如下修改：** 
 
+- 最新版的11.0.1支持中文安装了，但 SecureBootModel 还是要设置为 Disabled
+
 - 1.Misc - Security - SecureBootModel 已设置为 Disabled
 
 - 2.NVRAM - 7C436110-AB2A-4BBB-A880-FE41995C9F82 - prev-lang:kbd 已设置为 656E2D55533A30(英语)
