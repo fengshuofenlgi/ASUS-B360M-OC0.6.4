@@ -31,7 +31,7 @@
 - 更新内容：
 - 更新版本号为0.6.4
 
- **2020-11-2 OC 0.6.4 by williambj1**
+ **2020-11-3 OC 0.6.4 by williambj1**
 
 - 更新内容：
 - Bump version to 0.6.4
