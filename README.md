@@ -26,6 +26,11 @@
 
 # **目前版本为：** 
 
+ **2020-11-4 OC 0.6.4 by williambj1**
+
+- 更新内容：
+- Docs: add nvram-log=1
+
  **2020-11-3 OC 0.6.4 by 独行秀才**
 
 - 更新内容：
@@ -34,6 +39,7 @@
  **2020-11-3 OC 0.6.4 by williambj1**
 
 - 更新内容：
+- OcAcpiLib: Add ACPI signature log printing
 - Bump version to 0.6.4
 
  **2020-11-1 OC 0.6.3 by 独行秀才**
