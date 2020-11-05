@@ -26,6 +26,12 @@
 
 # **目前版本为：** 
 
+ **2020-11-5 OC 0.6.4 by 独行秀才**
+
+- 更新内容：
+- 添加了BlacklistAppleUpdate来修复11.0更新的故障
+- 从OpenDuet删除HII服务，提高了OpenDuet大小和性能
+
  **2020-11-5 OC 0.6.4 by williambj1**
 
 - 更新内容：
