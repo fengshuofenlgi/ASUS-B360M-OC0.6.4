@@ -35,6 +35,7 @@
  **2020-11-5 OC 0.6.4 by williambj1**
 
 - 更新内容：
+- Docs: Add Find My Mac to Sample legacy schema (#151)
 - Update SampleCustom.plist
 
  **2020-11-4 OC 0.6.4 by williambj1**
