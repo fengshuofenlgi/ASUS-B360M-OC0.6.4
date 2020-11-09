@@ -35,6 +35,11 @@
 - OcMemoryLib: Allow overriding page allocator for allocate from top
 - OcAcpiLib: Relocate ACPI tables if they are not writeable (#152)
 
+ **2020-11-7 OC 0.6.4 by 独行秀才**
+
+- 更新内容：
+- 修正了mkext中注入kexts的补丁
+- 增加了对从相对路径启动的支持
 
  **2020-11-5 OC 0.6.4 by 独行秀才**
 
