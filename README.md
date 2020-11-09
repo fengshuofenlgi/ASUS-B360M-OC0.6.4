@@ -26,6 +26,16 @@
 
 # **目前版本为：** 
 
+ **2020-11-9 OC 0.6.4 by williambj1**
+
+- 更新内容：
+- OcAfterBootCompatLib: Drop legacy memory location trackers
+- Docs: Update changelog
+- DxeIpl: Fallback to 0xCF9 for reset register
+- OcMemoryLib: Allow overriding page allocator for allocate from top
+- OcAcpiLib: Relocate ACPI tables if they are not writeable (#152)
+
+
  **2020-11-5 OC 0.6.4 by 独行秀才**
 
 - 更新内容：
