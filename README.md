@@ -26,6 +26,13 @@
 
 # **目前版本为：** 
 
+ **2020-11-13 OC 0.6.4 by williambj1**
+
+- 更新内容：
+- OcAfterBootCompatLib: Fixed EnableSafeModeSlide on macOS 11.0
+- AppleFeatures: Add some EfiBoot feature bits
+- Legacy: Fix double ready-to-boot signaling
+
  **2020-11-11 OC 0.6.4 by 独行秀才**
 
 - 更新内容：
